@@ -27,5 +27,25 @@
 - [x] **minishell** https://github.com/loaki/42-minishell
   * score : 100/100
   * 2814 xp
+- [ ] **push_swap** https://github.com/loaki/42-push_swap
+  * score :
+  * xp
+- [ ] **CPP** https://github.com/loaki/42-CPP
+  * score :
+  * xp
+- [ ] **philosophers** https://github.com/loaki/42-philosophers
+  * score :
+  * xp
+- [ ] **ft_containers** https://github.com/loaki/42-ft_containers
+  * score :
+  * xp
+- [ ] **ft_irc** https://github.com/loaki/42-ft_irc
+  * score :
+  * xp
+- [ ] **ft_transcendence** https://github.com/loaki/42-ft_transcendence
+  * score :
+  * xp
 
-15,948.1
+|projects validated|total xp|
+|---|---|---|
+|9 / 15|15,948.1|
