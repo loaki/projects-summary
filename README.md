@@ -1,5 +1,6 @@
 # 42-projects
 
+
 - [x] **libft** https://github.com/loaki/42-libft
   * score : 115/100
   * 531.3 xp
@@ -46,10 +47,7 @@
   * score :
   * xp
 
-|projects validated|total xp|
-|---|---|---|
-|9 / 15|15,948.1|
 
 |projects finished|total xp|
-|---|---|---|
+|---|---|
 |9 / 15|15,948.1|
