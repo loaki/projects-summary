@@ -29,8 +29,8 @@
   * score : 100/100
   * 2814 xp
 - [ ] **push_swap** https://github.com/loaki/42-push_swap
-  * score :
-  * xp
+  * score : 111/100
+  * 1484 xp
 - [ ] **CPP** https://github.com/loaki/42-CPP
   * score :
   * xp
@@ -50,4 +50,4 @@
 
 |projects finished|total xp|
 |:---:|:---:|
-|9 / 15|15,948.1|
+|10 / 15|17,432.1|
