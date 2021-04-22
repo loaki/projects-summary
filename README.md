@@ -28,7 +28,7 @@
 - [x] **minishell** https://github.com/loaki/42-minishell
   * score : 100/100
   * 2814 xp
-- [ ] **push_swap** https://github.com/loaki/42-push_swap
+- [x] **push_swap** https://github.com/loaki/42-push_swap
   * score : 111/100
   * 1484 xp
 - [ ] **CPP** https://github.com/loaki/42-CPP
