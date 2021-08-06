@@ -35,8 +35,8 @@
   * score :
   * xp
 - [ ] **philosophers** https://github.com/loaki/42-philosophers
-  * score :
-  * xp
+  * score : 100/100
+  * 3360 xp
 - [ ] **ft_containers** https://github.com/loaki/42-ft_containers
   * score :
   * xp
@@ -50,4 +50,4 @@
 
 |projects finished|total xp|
 |:---:|:---:|
-|10 / 15|17,432.1|
+|10 / 15|20,792.1|
