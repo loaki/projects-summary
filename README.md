@@ -34,7 +34,7 @@
 - [ ] **CPP** https://github.com/loaki/42-CPP
   * score :
   * xp
-- [ ] **philosophers** https://github.com/loaki/42-philosophers
+- [x] **philosophers** https://github.com/loaki/42-philosophers
   * score : 100/100
   * 3360 xp
 - [ ] **ft_containers** https://github.com/loaki/42-ft_containers
