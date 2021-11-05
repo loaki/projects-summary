@@ -48,6 +48,6 @@
   * xp
 
 
-|Level|Projects finished|Total xp|
+|Level|Total xp|Projects finished|
 |:---:|:---:|:---:|
-|5|11|20,792.1|
+|5|20,792.1|11|
