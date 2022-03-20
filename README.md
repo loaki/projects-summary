@@ -31,9 +31,9 @@
 - [x] **push_swap** https://github.com/loaki/42-push_swap
   * score : 111/100
   * 1484 xp
-- [ ] **CPP** https://github.com/loaki/42-CPP
-  * score :
-  * xp
+- [x] **CPP** https://github.com/loaki/42-CPP
+  * score : 100/100
+  * 9660 xp
 - [x] **philosophers** https://github.com/loaki/42-philosophers
   * score : 100/100
   * 3360 xp
@@ -46,8 +46,3 @@
 - [ ] **ft_transcendence** https://github.com/loaki/42-ft_transcendence
   * score :
   * xp
-
-
-|Projects finished|Level|Total xp|
-|:---:|:---:|:---:|
-|11|5|20,792.1|
