@@ -16,23 +16,33 @@
 - [x] **ft_server**
   * https://github.com/loaki/42-ft_server
   * score : 100/100	
-- [x] **cub3d** https://github.com/loaki/42-cub3D
+- [x] **cub3d**
+  * https://github.com/loaki/42-cub3D
   * score : 115/100	 	
-- [x] **libasm** https://github.com/loaki/42-libasm
+- [x] **libasm**
+  * https://github.com/loaki/42-libasm
   * score : 125/100	 	
-- [x] **ft_services** https://github.com/loaki/42-ft_services
+- [x] **ft_services**
+  * https://github.com/loaki/42-ft_services
   * score : 100/100
-- [x] **minishell** https://github.com/loaki/42-minishell
+- [x] **minishell**
+  * https://github.com/loaki/42-minishell
   * score : 100/100
-- [x] **push_swap** https://github.com/loaki/42-push_swap
+- [x] **push_swap**
+  * https://github.com/loaki/42-push_swap
   * score : 111/100
-- [x] **CPP** https://github.com/loaki/42-CPP
+- [x] **CPP**
+  * https://github.com/loaki/42-CPP
   * score : 100/100
-- [x] **philosophers** https://github.com/loaki/42-philosophers
+- [x] **philosophers**
+  * https://github.com/loaki/42-philosophers
   * score : 100/100
-- [x] **ft_containers** https://github.com/loaki/42-ft_containers
+- [x] **ft_containers**
+  * https://github.com/loaki/42-ft_containers
   * score : 100/100
-- [x] **ft_irc** https://github.com/loaki/42-ft_irc
+- [x] **ft_irc**
+  * https://github.com/loaki/42-ft_irc
   * score : 125/100
-- [ ] **ft_transcendence** https://github.com/loaki/42-ft_transcendence
+- [ ] **ft_transcendence**
+  * https://github.com/loaki/42-ft_transcendence
   * score :
