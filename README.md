@@ -1,7 +1,8 @@
 # 42-projects
 
 
-- [x] **libft** [![jfeuilla's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2581120)](https://github.com/JaeSeoKim/badge42)
+- [x] **libft**
+[![jfeuilla's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2581120)](https://github.com/JaeSeoKim/badge42)
   * https://github.com/loaki/42-libft
 - [x] **ft_printf** 
   * https://github.com/loaki/42-ft_printf
