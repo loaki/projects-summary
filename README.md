@@ -2,12 +2,12 @@
 
 
 - [x] **libft**
-  * https://github.com/loaki/42-libft
-  * score : 115/100
-  <details>
+<details>
    <summary>Subject</summary>
    <text> This project aims to make you code in C a library of usual functions that you can use for your next projects. </text>
-  </details>
+</details>
+  * https://github.com/loaki/42-libft
+  * score : 115/100
 - [x] **ft_printf** 
   * https://github.com/loaki/42-ft_printf
   * score : 100/100
