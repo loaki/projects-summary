@@ -4,12 +4,14 @@
 ## [x **libft**
 <details>
   <summary>Resume</summary>
-  ``` This project aims to make you code in C a library of usual functions that you can use for your next projects. ```
+  ``` 
+  This project aims to make you code in C a library of usual functions that you can use for your next projects. 
+  ```
 </details>
 
 > https://github.com/loaki/42-libft
 
-![jfeuilla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1618960)
+> ![jfeuilla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1618960)
 
 - [x] **ft_printf** 
   * https://github.com/loaki/42-ft_printf
