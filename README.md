@@ -2,11 +2,12 @@
 
 
 - [x] **libft**
-  * [![jfeuilla's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2581120)](https://github.com/JaeSeoKim/badge42)
   * https://github.com/loaki/42-libft
+  * score : 115/100
   <details>
    <summary>Subject</summary>
-   <text> blabla </text>
+   <text> This project aims to make you code in C a library of usual functions
+that you can use for your next projects. </text>
   </details>
 - [x] **ft_printf** 
   * https://github.com/loaki/42-ft_printf
