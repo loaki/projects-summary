@@ -8,6 +8,7 @@
 </details>
 > https://github.com/loaki/42-libft
 > score : 115/100
+
 - [x] **ft_printf** 
   * https://github.com/loaki/42-ft_printf
   * score : 100/100
