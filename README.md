@@ -1,14 +1,12 @@
 # 42-projects
 
 
-- [x] **libft**
+- [x] **libft** https://github.com/loaki/42-libft
 <details>
   <summary>Resume</summary>
   <text> This project aims to make you code in C a library of usual functions that you can use for your next projects. </text>
 </details>
-> https://github.com/loaki/42-libft
-> score : 115/100
-
+[![jfeuilla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1618960)](https://github.com/JaeSeoKim/badge42)
 - [x] **ft_printf** 
   * https://github.com/loaki/42-ft_printf
   * score : 100/100
