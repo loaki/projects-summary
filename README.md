@@ -9,14 +9,14 @@
 
 > https://github.com/loaki/42-libft
 
-## **ft_printf** ![jfeuilla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1627488)
+## **ft_printf**
 <details>
   <summary>Resume</summary>
   This project aims to make you code in C a library of usual functions that you can use for your next projects. 
 </details>
 
   * https://github.com/loaki/42-ft_printf
-  * score : 100/100
+  * ![jfeuilla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1627488)
 - [x] **get_next_line**
   * https://github.com/loaki/42-get_next_line
   * score : 115/100
