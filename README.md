@@ -6,8 +6,7 @@
   * score : 115/100
   <details>
    <summary>Subject</summary>
-   <text> This project aims to make you code in C a library of usual functions
-that you can use for your next projects. </text>
+   <text> This project aims to make you code in C a library of usual functions that you can use for your next projects. </text>
   </details>
 - [x] **ft_printf** 
   * https://github.com/loaki/42-ft_printf
