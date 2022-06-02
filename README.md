@@ -20,18 +20,46 @@
   * https://github.com/loaki/42-ft_printf
   * ![jfeuilla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1627488)
 
-- [x] **get_next_line**
+## **get_next_line**
+<details>
+  <summary>Resume</summary>
+  This project aims to have you develop a function that returns a row read from a file descriptor.
+</details>
+
   * https://github.com/loaki/42-get_next_line
-  * score : 115/100
-- [x] **netwhat** 
+  * ![jfeuilla's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1625561)
+
+## **netwhat**
+<details>
+  <summary>Resume</summary>
+  This project aims to have you develop a function that returns a row read from a file descriptor.
+</details>
+
   * https://github.com/loaki/42-netwhat
-  * score : 100/100
-- [x] **ft_server**
+  * ![jfeuilla's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1634339)
+
+## **ft_server**
+<details>
+  <summary>Resume</summary>
+  This document is a subject of System Administration. He will make you discover
+  Docker and will have you set up a web server.
+</details>
+
   * https://github.com/loaki/42-ft_server
-  * score : 100/100	
-- [x] **cub3d**
+  * ![jfeuilla's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1812692)
+
+## **cub3d**
+<details>
+  <summary>Resume</summary>
+  This project is inspired by the game Wolfeinstein3D, considered the first FPS
+  never developed. It will allow you to explore the technique of ray-casting. Your goal
+  is to make a dynamic view within a labyrinth, in which you will have to find
+  your way.
+</details>
+
   * https://github.com/loaki/42-cub3D
-  * score : 115/100	 	
+  * ![jfeuilla's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1639808)
+
 - [x] **libasm**
   * https://github.com/loaki/42-libasm
   * score : 125/100	 	
