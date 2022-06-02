@@ -1,7 +1,7 @@
 # 42-projects
 
 
-###### [x] **libft**
+## [x] **libft**
 <details>
   <summary>Resume</summary>
   <text> This project aims to make you code in C a library of usual functions that you can use for your next projects. </text>
