@@ -32,7 +32,7 @@
 ## **netwhat**
 <details>
   <summary>Resume</summary>
-  This project aims to have you develop a function that returns a row read from a file descriptor.
+  This project is an introduction to network issues
 </details>
 
   * https://github.com/loaki/42-netwhat
@@ -60,30 +60,100 @@
   * https://github.com/loaki/42-cub3D
   * ![jfeuilla's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1639808)
 
-- [x] **libasm**
+## **libasm**
+<details>
+  <summary>Resume</summary>
+  The objective of this project is to become familiar with assembly language.
+</details>
+
   * https://github.com/loaki/42-libasm
-  * score : 125/100	 	
-- [x] **ft_services**
+  * ![jfeuilla's 42 libasm Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1887023)
+
+## **ft_services**
+<details>
+  <summary>Resume</summary>
+  This document is a subject of System Administration.
+</details>
+
   * https://github.com/loaki/42-ft_services
-  * score : 100/100
-- [x] **minishell**
+  * ![jfeuilla's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122548)
+
+## **minishell**
+<details>
+  <summary>Resume</summary>
+  The goal of this project is to create a minimalist shell.
+  This will be your own little bash.
+  You will learn a lot about processes and file descriptors
+</details>
+
   * https://github.com/loaki/42-minishell
-  * score : 100/100
-- [x] **push_swap**
+  * ![jfeuilla's 42 minishell Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122551)
+
+## **push_swap**
+<details>
+  <summary>Resume</summary>
+  This project will make you sort data on a stack, with a limited set of instructions, using
+  the lowest possible number of actions. To succeed you’ll have to manipulate various
+  types of algorithms and choose the most appropriate solution (out of many) for an
+  optimized data sorting.
+</details>
+
   * https://github.com/loaki/42-push_swap
-  * score : 111/100
-- [x] **CPP**
+  * ![jfeuilla's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122550)
+
+## **CPP**
+<details>
+  <summary>Resume</summary>
+  Modules to learn CPP
+</details>
+
   * https://github.com/loaki/42-CPP
-  * score : 100/100
-- [x] **philosophers**
+  * ![jfeuilla's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2532846)
+
+## **philosophers**
+<details>
+  <summary>Resume</summary>
+  This project is an introduction to threading and processes, and how to work
+  on the same memory space.
+  You will learn how to manipulate threads.
+  You will learn about mutexes, semaphores and shared memory.
+</details>
+
   * https://github.com/loaki/42-philosophers
-  * score : 100/100
-- [x] **ft_containers**
+  * ![jfeuilla's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2155673)
+
+## **ft_containers**
+<details>
+  <summary>Resume</summary>
+  Containers in C++ all have a special use.
+  To make sure you understand them, you're going to implement them!
+</details>
+
   * https://github.com/loaki/42-ft_containers
-  * score : 100/100
-- [x] **ft_irc**
+  * ![jfeuilla's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2557831)
+
+## **ft_irc**
+<details>
+  <summary>Resume</summary>
+  The objective of this project is to reproduce the operation of an IRC server.
+  You will use a real IRC client to connect to your server and thus
+  test.
+  The Internet operates using numerous standards and protocols to allow
+  interoperability between connected machines. It is always interesting to know what
+  kind of thing.
+</details>
+
   * https://github.com/loaki/42-ft_irc
-  * score : 125/100
-- [ ] **ft_transcendence**
+  * ![jfeuilla's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2581120)
+
+## **ft_transcendence**
+<details>
+  <summary>Resume</summary>
+  C and C++, it's over!
+  This project is about doing something that is completely new to you.
+  Remember the beginning of your journey into the wonderful world of computing.
+  Look where you are now. It's time to shine!
+</details>
+
   * https://github.com/loaki/42-ft_transcendence
-  * score :
+  * 
