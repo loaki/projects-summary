@@ -3,7 +3,7 @@
 
 ## **libft**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This project aims to make you code in C a library of usual functions that you can use for your next projects. 
 </details>
 
@@ -12,7 +12,7 @@
 
 ## **ft_printf**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This project is pretty straightforward. You need to recode printf().
   You will mainly learn how to use a variable number of arguments.
 </details>
@@ -22,7 +22,7 @@
 
 ## **get_next_line**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This project aims to have you develop a function that returns a row read from a file descriptor.
 </details>
 
@@ -31,7 +31,7 @@
 
 ## **netwhat**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This project is an introduction to network issues
 </details>
 
@@ -40,7 +40,7 @@
 
 ## **ft_server**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This document is a subject of System Administration. He will make you discover
   Docker and will have you set up a web server.
 </details>
@@ -50,7 +50,7 @@
 
 ## **cub3d**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This project is inspired by the game Wolfeinstein3D, considered the first FPS
   never developed. It will allow you to explore the technique of ray-casting. Your goal
   is to make a dynamic view within a labyrinth, in which you will have to find
@@ -62,7 +62,7 @@
 
 ## **libasm**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   The objective of this project is to become familiar with assembly language.
 </details>
 
@@ -71,7 +71,7 @@
 
 ## **ft_services**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This document is a subject of System Administration.
 </details>
 
@@ -80,7 +80,7 @@
 
 ## **minishell**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   The goal of this project is to create a minimalist shell.
   This will be your own little bash.
   You will learn a lot about processes and file descriptors
@@ -91,7 +91,7 @@
 
 ## **push_swap**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This project will make you sort data on a stack, with a limited set of instructions, using
   the lowest possible number of actions. To succeed you’ll have to manipulate various
   types of algorithms and choose the most appropriate solution (out of many) for an
@@ -103,7 +103,7 @@
 
 ## **CPP**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   Modules to learn CPP
 </details>
 
@@ -112,7 +112,7 @@
 
 ## **philosophers**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   This project is an introduction to threading and processes, and how to work
   on the same memory space.
   You will learn how to manipulate threads.
@@ -124,7 +124,7 @@
 
 ## **ft_containers**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   Containers in C++ all have a special use.
   To make sure you understand them, you're going to implement them!
 </details>
@@ -134,7 +134,7 @@
 
 ## **ft_irc**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   The objective of this project is to reproduce the operation of an IRC server.
   You will use a real IRC client to connect to your server and thus
   test.
@@ -148,7 +148,7 @@
 
 ## **ft_transcendence**
 <details>
-  <summary>Resume</summary>
+  <summary>Summary</summary>
   C and C++, it's over!
   This project is about doing something that is completely new to you.
   Remember the beginning of your journey into the wonderful world of computing.
