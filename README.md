@@ -156,4 +156,4 @@
 </details>
 
   * https://github.com/loaki/42-ft_transcendence
-  * 
+  * ![jfeuilla's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2708323)
