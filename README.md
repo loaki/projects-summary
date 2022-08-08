@@ -1,7 +1,7 @@
 # 42-projects
 
 
-## **libft** https://github.com/loaki/42-libft ![jfeuilla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1618960)
+## **libft** - https://github.com/loaki/42-libft ![jfeuilla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1618960)
 <details>
   <summary>Summary</summary>
   This project aims to make you code in C a library of usual functions that you can use for your next projects. 
