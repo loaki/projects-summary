@@ -7,42 +7,33 @@
   This project aims to make you code in C a library of usual functions that you can use for your next projects. 
 </details>
 
-## **ft_printf** https://github.com/loaki/42-ft_printf ![jfeuilla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1627488)
+## **ft_printf** - https://github.com/loaki/42-ft_printf ![jfeuilla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1627488)
 <details>
   <summary>Summary</summary>
   This project is pretty straightforward. You need to recode printf().
   You will mainly learn how to use a variable number of arguments.
 </details>
 
-## **get_next_line**
+## **get_next_line** - https://github.com/loaki/42-get_next_line ![jfeuilla's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1625561)
 <details>
   <summary>Summary</summary>
   This project aims to have you develop a function that returns a row read from a file descriptor.
 </details>
 
-  * https://github.com/loaki/42-get_next_line
-  * ![jfeuilla's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1625561)
-
-## **netwhat**
+## **netwhat** - https://github.com/loaki/42-netwhat ![jfeuilla's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1634339)
 <details>
   <summary>Summary</summary>
   This project is an introduction to network issues
 </details>
 
-  * https://github.com/loaki/42-netwhat
-  * ![jfeuilla's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1634339)
-
-## **ft_server**
+## **ft_server** - https://github.com/loaki/42-ft_server ![jfeuilla's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1812692)
 <details>
   <summary>Summary</summary>
   This document is a subject of System Administration. He will make you discover
   Docker and will have you set up a web server.
 </details>
 
-  * https://github.com/loaki/42-ft_server
-  * ![jfeuilla's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1812692)
-
-## **cub3d**
+## **cub3d** - https://github.com/loaki/42-cub3D ![jfeuilla's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1639808)
 <details>
   <summary>Summary</summary>
   This project is inspired by the game Wolfeinstein3D, considered the first FPS
@@ -51,28 +42,19 @@
   your way.
 </details>
 
-  * https://github.com/loaki/42-cub3D
-  * ![jfeuilla's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1639808)
-
-## **libasm**
+## **libasm** - https://github.com/loaki/42-libasm ![jfeuilla's 42 libasm Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1887023)
 <details>
   <summary>Summary</summary>
   The objective of this project is to become familiar with assembly language.
 </details>
 
-  * https://github.com/loaki/42-libasm
-  * ![jfeuilla's 42 libasm Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1887023)
-
-## **ft_services**
+## **ft_services** - https://github.com/loaki/42-ft_services ![jfeuilla's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122548)
 <details>
   <summary>Summary</summary>
   This document is a subject of System Administration.
 </details>
 
-  * https://github.com/loaki/42-ft_services
-  * ![jfeuilla's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122548)
-
-## **minishell**
+## **minishell** - https://github.com/loaki/42-minishell ![jfeuilla's 42 minishell Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122551)
 <details>
   <summary>Summary</summary>
   The goal of this project is to create a minimalist shell.
@@ -80,10 +62,7 @@
   You will learn a lot about processes and file descriptors
 </details>
 
-  * https://github.com/loaki/42-minishell
-  * ![jfeuilla's 42 minishell Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122551)
-
-## **push_swap**
+## **push_swap** - https://github.com/loaki/42-push_swap ![jfeuilla's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122550)
 <details>
   <summary>Summary</summary>
   This project will make you sort data on a stack, with a limited set of instructions, using
@@ -92,19 +71,13 @@
   optimized data sorting.
 </details>
 
-  * https://github.com/loaki/42-push_swap
-  * ![jfeuilla's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122550)
-
-## **CPP**
+## **CPP** - https://github.com/loaki/42-CPP ![jfeuilla's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2532846)
 <details>
   <summary>Summary</summary>
   Modules to learn CPP
 </details>
 
-  * https://github.com/loaki/42-CPP
-  * ![jfeuilla's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2532846)
-
-## **philosophers**
+## **philosophers** - https://github.com/loaki/42-philosophers ![jfeuilla's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2155673)
 <details>
   <summary>Summary</summary>
   This project is an introduction to threading and processes, and how to work
@@ -113,20 +86,14 @@
   You will learn about mutexes, semaphores and shared memory.
 </details>
 
-  * https://github.com/loaki/42-philosophers
-  * ![jfeuilla's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2155673)
-
-## **ft_containers**
+## **ft_containers** - https://github.com/loaki/42-ft_containers ![jfeuilla's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2557831)
 <details>
   <summary>Summary</summary>
   Containers in C++ all have a special use.
   To make sure you understand them, you're going to implement them!
 </details>
 
-  * https://github.com/loaki/42-ft_containers
-  * ![jfeuilla's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2557831)
-
-## **ft_irc**
+## **ft_irc** - https://github.com/loaki/42-ft_irc ![jfeuilla's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2581120)
 <details>
   <summary>Summary</summary>
   The objective of this project is to reproduce the operation of an IRC server.
@@ -137,10 +104,7 @@
   kind of thing.
 </details>
 
-  * https://github.com/loaki/42-ft_irc
-  * ![jfeuilla's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2581120)
-
-## **ft_transcendence**
+## **ft_transcendence** - https://github.com/loaki/42-ft_transcendence ![jfeuilla's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2708323)
 <details>
   <summary>Summary</summary>
   C and C++, it's over!
@@ -148,6 +112,3 @@
   Remember the beginning of your journey into the wonderful world of computing.
   Look where you are now. It's time to shine!
 </details>
-
-  * https://github.com/loaki/42-ft_transcendence
-  * ![jfeuilla's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2708323)
