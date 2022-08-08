@@ -7,6 +7,7 @@
   This project aims to make you code in C a library of usual functions that you can use for your next projects. 
 </details>
 
+
 **ft_printf** - https://github.com/loaki/42-ft_printf ![jfeuilla's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1627488)
 <details>
   <summary>Summary</summary>
@@ -14,11 +15,13 @@
   You will mainly learn how to use a variable number of arguments.
 </details>
 
+
 **get_next_line** - https://github.com/loaki/42-get_next_line ![jfeuilla's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1625561)
 <details>
   <summary>Summary</summary>
   This project aims to have you develop a function that returns a row read from a file descriptor.
 </details>
+
 
 **netwhat** - https://github.com/loaki/42-netwhat ![jfeuilla's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1634339)
 <details>
@@ -26,12 +29,14 @@
   This project is an introduction to network issues
 </details>
 
+
 **ft_server** - https://github.com/loaki/42-ft_server ![jfeuilla's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1812692)
 <details>
   <summary>Summary</summary>
   This document is a subject of System Administration. He will make you discover
   Docker and will have you set up a web server.
 </details>
+
 
 **cub3d** - https://github.com/loaki/42-cub3D ![jfeuilla's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1639808)
 <details>
@@ -42,17 +47,20 @@
   your way.
 </details>
 
+
 **libasm** - https://github.com/loaki/42-libasm ![jfeuilla's 42 libasm Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1887023)
 <details>
   <summary>Summary</summary>
   The objective of this project is to become familiar with assembly language.
 </details>
 
+
 **ft_services** - https://github.com/loaki/42-ft_services ![jfeuilla's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122548)
 <details>
   <summary>Summary</summary>
   This document is a subject of System Administration.
 </details>
+
 
 **minishell** - https://github.com/loaki/42-minishell ![jfeuilla's 42 minishell Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122551)
 <details>
@@ -61,6 +69,7 @@
   This will be your own little bash.
   You will learn a lot about processes and file descriptors
 </details>
+
 
 **push_swap** - https://github.com/loaki/42-push_swap ![jfeuilla's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2122550)
 <details>
@@ -71,11 +80,13 @@
   optimized data sorting.
 </details>
 
+
 **CPP** - https://github.com/loaki/42-CPP ![jfeuilla's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2532846)
 <details>
   <summary>Summary</summary>
   Modules to learn CPP
 </details>
+
 
 **philosophers** - https://github.com/loaki/42-philosophers ![jfeuilla's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2155673)
 <details>
@@ -86,12 +97,14 @@
   You will learn about mutexes, semaphores and shared memory.
 </details>
 
+
 **ft_containers** - https://github.com/loaki/42-ft_containers ![jfeuilla's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2557831)
 <details>
   <summary>Summary</summary>
   Containers in C++ all have a special use.
   To make sure you understand them, you're going to implement them!
 </details>
+
 
 **ft_irc** - https://github.com/loaki/42-ft_irc ![jfeuilla's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2581120)
 <details>
@@ -103,6 +116,7 @@
   interoperability between connected machines. It is always interesting to know what
   kind of thing.
 </details>
+
 
 **ft_transcendence** - https://github.com/loaki/42-ft_transcendence ![jfeuilla's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/2708323)
 <details>
