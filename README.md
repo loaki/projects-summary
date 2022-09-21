@@ -1,5 +1,12 @@
 # 42-projects
 
+| Name | Description | Techno | Score | link |
+| --- | --- | --- | --- | --- |
+| libft | Implementation of a C library | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | 125/100 | https://github.com/loaki/42-libft |
+| ft_printf | Recode C printf() | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | 125/100 | https://github.com/loaki/42-ft_printf |
+| get_next_line | Function to read from a file descriptor | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | 125/100 | https://github.com/loaki/42-get_next_line |
+| netwhat | Introduction to network issues | | 125/100 | https://github.com/loaki/42-netwhat |
+| ft_server | Set up a web server | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | 125/100 | https://github.com/loaki/42-ft_server |
 
 **libft** - https://github.com/loaki/42-libft ![jfeuilla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl3vp66tw002509l1p3inopdr/project/1618960)
 <details>
