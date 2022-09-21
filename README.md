@@ -1,6 +1,6 @@
 # 42 projects
 
-| Name | Description | Language | Score | link |
+| Name | Description | Language | Score | Link |
 | --- | --- | --- | --- | --- |
 | libft | Implementation of a C library | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | 115/100 | https://github.com/loaki/42-libft |
 | ft_printf | Recode C printf() | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | 100/100 | https://github.com/loaki/42-ft_printf |
@@ -20,7 +20,7 @@
 
 # personal projects
 
-| Name | Description | Language | link |
+| Name | Description | Language | Link |
 | --- | --- | --- | --- |
 | discord_bot | Discord bot with OCR | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| private |
 | website-plum | Flask blog | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/website-plum |
