@@ -18,6 +18,7 @@
 | ft_irc | IRC server for Irssi client | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 125/100 | https://github.com/loaki/42-ft_irc |
 | ft_transcendence | Pong website in nestjs and vue | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 100/100 | https://github.com/loaki/42-ft_transcendence |
 | Piscine_Django | Modules to learn Django | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 71/100 | https://github.com/loaki/42-Piscine_Django |
+| snow-crash | Introduction to cyber security | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 100/100 | https://github.com/loaki/42-snow-crash |
 
 # personal projects
 
