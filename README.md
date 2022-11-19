@@ -19,6 +19,7 @@
 | ft_transcendence | Pong website in nestjs and vue | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 100/100 | https://github.com/loaki/42-ft_transcendence |
 | Piscine_Django | Modules to learn Django | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 71/100 | https://github.com/loaki/42-Piscine_Django |
 | snow-crash | Introduction to cyber security | ![ASM](https://img.shields.io/badge/asm-%23000000.svg?style=for-the-badge&logo=Task&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | 100/100 | https://github.com/loaki/42-snow-crash |
+| rainfall | Introduction to the exploitation of (elf-like) binary | ![ASM](https://img.shields.io/badge/asm-%23000000.svg?style=for-the-badge&logo=Task&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | 125/100 | https://github.com/loaki/42-rainfall |
 
 # personal projects
 
