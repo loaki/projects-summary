@@ -25,7 +25,7 @@
 
 | Name | Description | Language | Link |
 | --- | --- | --- | --- |
-| discord_bot | Discord bot with OCR | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | private |
+| discord_bot | Discord bot with OCR | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/discord_bot |
 | website-plum | Flask blog | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/website-plum |
 | twitter_bot | Twitter bot image generator | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/twitter_bot |
 | poker_bot | Bot to play poker with Monte-Carlo algorithm | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/poker_bot |
