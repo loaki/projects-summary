@@ -30,3 +30,4 @@
 | twitter_bot | Twitter bot image generator | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/twitter_bot |
 | poker_bot | Bot to play poker with Monte-Carlo algorithm | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/poker_bot |
 | NTX_hackaton | hackaton on neurotechnologies | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/NTX_hackaton_22 |
+| pouet | music annotation | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | https://github.com/loaki/pouet |
